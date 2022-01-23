@@ -22,4 +22,4 @@ additional loss. Danbooru Sketch Pair: a large collection of 128x128 anime pictu
 mean absolute error and cross-entropy are used. The underlying U-net-based (with skip connection)
 generator has been implemented first. On top of that, the
 cGAN architecture has been implemented combining gen-
-1erator and discriminator. For more details, see the manuscript: [[PDF]]((http://galib19.github.io/files/ImageToImage_2021.pdf)).
+1erator and discriminator. For more details, see the manuscript: [[PDF]](http://galib19.github.io/files/ImageToImage_2021.pdf).
